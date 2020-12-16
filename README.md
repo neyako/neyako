@@ -4,7 +4,7 @@
 ### About me
 - Name: **Neyako Phạm**
 - Career: **Editor/Designer**
-- Founder of **Neji Projekt** and Studying **FPT Highschool**
+- Founder of **Neji Projekt** and Studying at **FPT Highschool**
 - **Keyboard/Tech** enthusiast, also like "gb" things
 
 ### Workspace
