@@ -1,10 +1,10 @@
-## Hi there, Neyako~desu
+## Hi there, Neyako~desu （＾－＾✿）
 - i use arch btw
 
 ### About me
 - Name: **Neyako Phạm**
 - Career: **Editor/Designer**
-- Founder of **Neji Projekt** and Studying at **FPT Highschool**
+- Founder of **[Neji Projekt](https://www.facebook.com/NejiProjekt)** and Studying at **FPT Highschool**
 - **Keyboard/Tech** enthusiast, also like "gb" things
 
 ### Workspace
@@ -23,6 +23,13 @@
 - Eiyuu no Musume Toshite Umarekawatta Eiyuu wa Futatabi Eiyuu o Mezasu
 - Ketika Gue Bereinkarnasi di Dunia Lain, Gue Jadi Heroine dan Dia Heronya
 - **much much more...**
+
+### Contacts
+- Discord: **Neyako#2809**
+- Telegram: **[@neyakowo](https://t.me/neyakowo)**
+- Twitter: **[@neyakowo](https://twitter.com/neyakowo)**
+- Facebook: **[@neyakowo](https://www.facebook.com/Neyakowo/)**
+- Instagram: **[@neyakowo](https://www.instagram.com/neyakowo)**
 
 
 -> so I'm not a dev btw, just use github for fun and storage something?
