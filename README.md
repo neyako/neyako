@@ -5,6 +5,7 @@
 - Name: **Neyako Phạm**
 - Career: **Editor/Designer**
 - Founder of **Neji Projekt** and Studying **FPT Highschool**
+- **Keyboard/Tech** enthusiast, also like "gb" things
 
 ### Workspace
 - Random asuck laptop
@@ -19,7 +20,9 @@
 - Hatjimete no Gal
 - Slime Taoshite 300-Nen
 - Onii-chan is done for
-- much much more...
+- Eiyuu no Musume Toshite Umarekawatta Eiyuu wa Futatabi Eiyuu o Mezasu
+- Ketika Gue Bereinkarnasi di Dunia Lain, Gue Jadi Heroine dan Dia Heronya
+- **much much more...**
 
 
 -> so I'm not a dev btw, just use github for fun and storage something?
