@@ -13,7 +13,7 @@
 - Dualboot with **windoze 10** because Adobe doesn't work on Licox, why Adobe
 - Using random A brand's eco with A brand's phone, A brand's in-ear and A brand's watch, A brand's laptop soon asap but still install arch on it
 
-### Fav manga, LN, Anime
+### Fav manga, light novel, anime
 - Violet Evergarden
 - Konosuba
 - Aho Girl
