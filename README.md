@@ -1,4 +1,4 @@
-(https://i.neyako.works/i/ghmn.png)
+[random shit](http://i.neyako.works/i/ghmn.png)
 ## Hi there, Neyako~desu （＾－＾✿）
 - i use arch btw
 
