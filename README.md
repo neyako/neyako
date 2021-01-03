@@ -5,7 +5,7 @@
 ### About me
 - Name: **Neyako Phạm**
 - Career: **Editor/Designer**
-- Founder of **[Neji Projekt](https://www.facebook.com/NejiProjekt)** and Studying at **FPT Highschool**
+- My dream for the future is to be a someone's princess ✿✿✿
 - **Keyboard/Tech** enthusiast, also like "gb" things
 
 ### Workspace
