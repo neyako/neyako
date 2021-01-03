@@ -1,11 +1,11 @@
-![random shit](https://click-to.get-loli.today/i/iwir.png)
+![random shit](https://i.get-loli.today/i/52dq.jpg)
 ## Hi there, Neyako~desu （＾－＾✿）
 - i use arch btw
 
 ### About me
 - Name: **Neyako Phạm**
 - Career: **Editor/Designer**
-- My dream for the future is to be a someone's princess ✿✿✿
+- My dream for the future is to be a An's princess ✿✿✿
 - **Keyboard/Tech** enthusiast, also like "gb" things
 
 ### Workspace
