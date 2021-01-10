@@ -5,7 +5,7 @@
 ### About me
 - Name: **Neyako Phạm**
 - Career: **Editor/Designer**
-- Fuck love
+- My dream for the future is to be a An's princess ✿✿✿
 - **Keyboard/Tech** enthusiast, also like "gb" things
 
 ### Workspace
