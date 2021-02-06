@@ -5,7 +5,7 @@
 ### About me
 - Name: **Neyako Phạm**
 - Career: **Editor/Designer**
-- My dream for the future is to be a An's princess ✿✿✿
+- My dream for the future is to be a katsuki's princess ✿✿✿
 - **Keyboard/Tech** enthusiast, also like "gb" things
 
 ### Workspace
@@ -26,7 +26,7 @@
 - **much much more...**
 
 ### Contacts
-- Discord: **Neyako#2809**
+- Discord: **Neyako#0001**
 - Telegram: **[@neyakowo](https://t.me/neyakowo)**
 - Twitter: **[@neyakowo](https://twitter.com/neyakowo)**
 - Facebook: **[@neyakowo](https://www.facebook.com/Neyakowo/)**
