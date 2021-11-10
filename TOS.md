@@ -2,10 +2,10 @@
 
 ## **EN**
 - By purchasing any of my services, you have automatically accepted my ‘Terms of Service’ and must oblige to follow them. 
-- Before i start to work on your commision, you have to pay 50% of the total cost beforehand, before that you can request a demo
+- Before i start to work on your commision, you have to pay 50% of the total cost beforehand, before that you can request a demo.
 - While i'm working on your commision, I will send you the WIP to edit according to your liking.
-- I will not refund under any circumstances. If i can't finish your commision, you will be refunded 100% the amount that you paid.
-- I have full copyrights over my design. I am allowed to use the copyrighted design, this includes, but not limited to, promote myself within any social media, post the design where i want ( credits will be given to the commisioner)
+- I will not refund under any circumstances. If I can't finish your commision, you will be refunded 100% the amount that you paid.
+- I have full copyrights over my design. I am allowed to use the copyrighted design, this includes, but not limited to, promote myself within any social media, post the design where I want (credits will be given to the commisioner).
 If the commisioner want full ownership over the commissioned work, they need to pay an additional amount equal to 80% value of the work. The .psd/.ai file will be delivered, and after that I will no longer be responsible for the work.
 
 ## **VN**
