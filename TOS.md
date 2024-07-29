@@ -1,3 +1,27 @@
+## **VIE**
+Trước hết, dù bạn là nhãn hãng hay là người xem thì mình - Neyako, rất biết ơn tất cả mọi người vì đã dành thời gian ra để xem các nội dung mà mình đã và đang làm. Đến trang này, mọi người sẽ được biết cụ thể quá trình mà Neyako làm review sản phẩm.
+
+Với Neyako, booking (hay tài trợ) không nên là review và review thì không nên có booking. Mình luôn muốn đảm bảo các video review của mình phải là có sao nói vậy. Nếu sản phẩm đủ tốt thì chắc chắn nó sẽ có được một video đánh giá tích cực đến từ mình, và tất nhiên nếu sản phẩm quá tệ thì nó sẽ không tránh khỏi được việc nhận được một bài đánh giá tiêu cực từ mình.
+
+# CHÍNH SÁCH REVIEW
+
+1. Neyako sẽ chỉ làm video review sản phẩm khi:
+    - Sản phẩm đó có chất lượng đủ tốt (về thông số kĩ thuật, về mức giá, về chế độ hậu mãi, ...).
+    - Neyako được tự tin nói tất cả những gì Neyako nghĩ khi nhận review sản phẩm đó.
+  
+2. Các sản phẩm mà nhãn hàng tặng Neyako KHÔNG ĐỒNG NGHĨA với việc sản phẩm đó được lên video.
+   
+3. Nếu nhãn hàng gửi sản phẩm cho Neyako với mục đích đánh giá, nhãn hàng sẽ KHÔNG được xem trước hay chỉnh sửa để đảm bảo tính khách quan của nội dung.
+
+4. Neyako có quyền GỠ BỎ VIDEO nếu sản phẩm review có sự khác biệt lớn nếu so với sản phẩm thương mại.
+ 
+5. Neyako KHÔNG NHẬN quy đổi sản phẩm qua tiền mặt.
+   
+6. Neyako sẽ cần:
+   - It nhất từ 2-4 tuần (trừ khi ở sự kiện) để có thể trải nghiệm về các sản phẩm như laptop hay PC. Quá trình này sẽ bao gồm việc mở hộp, test thử máy, chạy benchmark và dùng sản phẩm như một người dùng bình thường, vân vân.
+   - Ít nhất 1-2 tuần (trừ khi ở sự kiện) để có thể trải nghiệm và đánh giá chi tiết về các sản phẩm như chuột, bàn phím, tai nghe, phụ kiện, vân vân.
+
+
 ## **EN**
 First and foremost, I—Neyako—want to express my deep gratitude to both our viewers and the brands we work with. Your support and interest in the content I create is truly appreciated. On this page, you'll learn about Neyako's specific product review process.
 
@@ -6,53 +30,15 @@ As Neyako, sponsorships or free products should never influence a review. My com
 # REVIEW POLICY
 
  1. Neyako will only create a video review for a product when:
- 	a. The product is of sufficient quality (regarding technical specifications, price, after-sales service, etc.).
- 	b. Neyako feels confident in expressing their thoughts about the product when reviewing it.
+    - The product is of sufficient quality (regarding technical specifications, price, after-sales service, etc.).
+    - Neyako feels confident in expressing their thoughts about the product when reviewing it.
  
- 2. Products that brands give to Neyako as a gift do NOT guarantee a video review.
+ 3. Products that brands give to Neyako as a gift do NOT guarantee a video review.
     
- 3. When a brand sends a product to Neyako for review, they can trust that the review will be fair and unbiased. We do not allow brands to preview or edit the review, ensuring the objectivity and honesty of our content. Neyako reserves the right to REMOVE the video if the reviewed product differs significantly from the retail product.
+ 4. When a brand sends a product to Neyako for review, they can trust that the review will be fair and unbiased. We do not allow brands to preview or edit the review, ensuring the objectivity and honesty of our content. Neyako reserves the right to REMOVE the video if the reviewed product differs significantly from the retail product.
  
- 4. Neyako does NOT accept cash in exchange for products.
+ 5. Neyako does NOT accept cash in exchange for products.
  
- 5. Neyako will need:
- 	a. At least 2-4 weeks (unless at an event) to experience and evaluate the product in detail for PCs or laptops. This evaluation includes unboxing, testing, benchmarking, using the products as the daily driver, etc.
- 	b. At least 1-2 weeks (unless at an event) to experience and evaluate the product in detail for mice, keyboards, accessories, etc.
-
-
-# Term of Services | Neyako's commissions
-
-## **EN**
-### **GENERAL TERMS**
-- By purchasing any of my services, you have automatically accepted my ‘Terms of Service’ and must oblige to follow them.
-- I have the right to refuse any commission. Commissions will be open on a selective basis, and I will only accept projects within my interests and availability.
-- Ongoing project teasers can be used for promotion. Please, notify if you require full privacy.
-- Terms are subject to discussion and adjustments.
-- All assets required before I can start on your commission.
-
-### **PAYMENT**
-- 50% payment is required upfront before production. Payment plans may be possible upon discussion.
-- Refunds are only available if I **haven't** started working yet.
-- Payment will be received in USD over PayPal invoice, cryptocurrency (stablecoin only).
-
-### **COPYRIGHT**
-- I own the rights to my own work.
-- The base pricing I give is served under a semi-commercial license, meaning that you can profit off of it indirectly (for example using it for livestreams, Twitter posts, etc), but cannot directly sell it as, for example, merch and advertisement campaign. If you want to have the commercial uses license, you will need to pay the extra fee, this fee is included with source files.
-- It is required that you credit me should you decide to use or share the work I created for you, either by @ my Twitter (@neyakowo) or my website (neyako.works).
-
-## **VN**
-### **CÁC ĐIỀU KHOẢN CƠ BẢN**
-- Khi bạn đã chọn việc mua commission của mình thì đồng nghĩa với việc bạn sẽ phải đồng ý và tuân thủ các "Điều khoản dịch vụ" của mình
-- Mình hoàn toàn có quyền từ chối commissions của bạn nếu mình không muốn làm.
-- Toàn bộ project sau khi xong sẽ được mình up lên social media để quảng bá cá nhân, nếu bạn muốn giữ project bí mật thì làm ơn hãy nói trước với mình.
-- Các điều khoản mình đề cập đều có thể thảo luận và sửa đổi.
-
-### **THANH TOÁN**
-- Vui lòng thanh toán trước 50% tổng giá trị commissions để mình bắt đầu làm việc.
-- Mình sẽ chỉ refunds khi mình **chưa** làm gì.
-- Phương thức thanh toán bạn có thể chọn là bank/e-wallet transfer, nếu bạn ở nước ngoài thì có thể là Paypal hoặc cryptocurrency (mình chỉ nhận stablecoin).
-
-### **BẢN QUYỀN**
-- Mọi sản phẩm mình làm ra đều thuộc về mình.
-- Mọi sản phẩm mình làm ra đều là semi-commercial, tức bạn có thể sử dụng để kiếm lợi nhuận gián tiếp (ví dụ như dùng để stream, để up bài trên Facebook hay Twitter, vân vân...) nhưng không thể sử dụng để bán như bán merch hoặc dùng cho các chiến dịch quảng cáo/truyền thông. Nếu bạn muốn dùng cho commercial, bạn sẽ cần phải trả thêm một khoảng phí nữa và khoảng phí này sẽ đi kiềm với files gốc mình làm ra.
-- Bạn phải credit khi sử dụng sản phẩm của mình, có thể tag mình trên facebook (Neyako Phạm) hoặc @ mình trên Twitter (@neyakowo) hoặc để lại website của mình (neyako.works)
+ 6. Neyako will need:
+    - At least 2-4 weeks (unless at an event) to experience the product in detail for PCs or laptops. This evaluation includes unboxing, testing, benchmarking, using the products as the daily driver, etc.
+    - At least 1-2 weeks (unless at an event) to experience and evaluate the product in detail for mice, keyboards, accessories, etc.
