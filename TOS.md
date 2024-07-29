@@ -1,3 +1,25 @@
+## **EN**
+First and foremost, I—Neyako—want to express my deep gratitude to both our viewers and the brands we work with. Your support and interest in the content I create is truly appreciated. On this page, you'll learn about Neyako's specific product review process.
+
+As Neyako, sponsorships or free products should never influence a review. My commitment to honesty and integrity means that a positive review is never guaranteed, just as a negative review is never ruled out. This approach builds trust with our viewers and the brands I work with.
+ 
+# REVIEW POLICY
+
+ 1. Neyako will only create a video review for a product when:
+ 	a. The product is of sufficient quality (regarding technical specifications, price, after-sales service, etc.).
+ 	b. Neyako feels confident in expressing their thoughts about the product when reviewing it.
+ 
+ 2. Products that brands give to Neyako as a gift do NOT guarantee a video review.
+    
+ 3. When a brand sends a product to Neyako for review, they can trust that the review will be fair and unbiased. We do not allow brands to preview or edit the review, ensuring the objectivity and honesty of our content. Neyako reserves the right to REMOVE the video if the reviewed product differs significantly from the retail product.
+ 
+ 4. Neyako does NOT accept cash in exchange for products.
+ 
+ 5. Neyako will need:
+ 	a. At least 2-4 weeks (unless at an event) to experience and evaluate the product in detail for PCs or laptops. This evaluation includes unboxing, testing, benchmarking, using the products as the daily driver, etc.
+ 	b. At least 1-2 weeks (unless at an event) to experience and evaluate the product in detail for mice, keyboards, accessories, etc.
+
+
 # Term of Services | Neyako's commissions
 
 ## **EN**
